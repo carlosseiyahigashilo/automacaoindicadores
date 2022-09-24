@@ -32,4 +32,4 @@ Indicadores do OnePage
 Faturamento -> Meta Ano: 1.650.000 / Meta Dia: 1000
 Diversidade de Produtos (quantos produtos diferentes foram vendidos naquele período) -> Meta Ano: 120 / Meta Dia: 4
 Ticket Médio por Venda -> Meta Ano: 500 / Meta Dia: 500
-Obs: Cada indicador deve ser calculado no dia e no ano. O indicador do dia deve ser o do último dia disponível na planilha de Vendas (a data mais recente)
+Obs: Cada indicador deve ser calculado no dia e no ano. O indicador do dia deve ser o do último dia disponível na planilha de Vendas (a data mais recente)"
