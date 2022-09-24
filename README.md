@@ -1,5 +1,9 @@
 # automacaoindicadores
+
+## 1. Introdução
 Projeto de Automação de Indicadores elaborado e desenvolvido ao longo do Curso Python Impressionador, ministrado pela Hashtag Treinamentos. Consiste desde o cálculo de indicadores a partir de uma base em Excel, manipulação de pastas e arquivos dentro do computador, e disparo de e-mail contendo os principais indicadores de cada uma das lojas (fictícias).
+
+## 2. Situação-desafio
 
 A situação-desafio que foi proposta para a elaboração deste projeto foi:
 
@@ -13,11 +17,11 @@ Um One Page é um resumo muito simples e direto ao ponto, usado pela equipe de g
 
 O seu papel, como Analista de Dados, é conseguir criar um processo da forma mais automática possível para calcular o OnePage de cada loja e enviar um email para o gerente de cada loja com o seu OnePage no corpo do e-mail e também o arquivo completo com os dados da sua respectiva loja em anexo.
 
-Ex: O e-mail a ser enviado para o Gerente da Loja A deve ser como exemplo
+O e-mail a ser enviado para o Gerente da Loja A deve ser como exemplo:
 
 ![image](https://user-images.githubusercontent.com/71049963/192113219-b2e4491e-94da-454d-8f4e-fef4ed7999c8.png)
 
-Arquivos e Informações Importantes:
+<b>Arquivos e Informações Importantes:</b>
 - Arquivo Emails.xlsx com o nome, a loja e o e-mail de cada gerente.
 - Arquivo Vendas.xlsx com as vendas de todas as lojas. Obs: Cada gerente só deve receber o OnePage e um arquivo em excel em anexo com as vendas da sua loja. As informações de outra loja não devem ser enviados ao gerente que não é daquela loja.
 - Arquivo Lojas.csv com o nome de cada Loja
@@ -26,9 +30,9 @@ Ao final, sua rotina deve enviar ainda um e-mail para a diretoria (informações
 
 As planilhas de cada loja devem ser salvas dentro da pasta da loja com a data da planilha, a fim de criar um histórico de backup
 
-Indicadores do OnePage
+<b>Indicadores do OnePage:</b>
 - Faturamento -> Meta Ano: 1.650.000 / Meta Dia: 1000
 - Diversidade de Produtos (quantos produtos diferentes foram vendidos naquele período) -> Meta Ano: 120 / Meta Dia: 4
 - Ticket Médio por Venda -> Meta Ano: 500 / Meta Dia: 500
-- 
+
 Obs: Cada indicador deve ser calculado no dia e no ano. O indicador do dia deve ser o do último dia disponível na planilha de Vendas (a data mais recente)"
